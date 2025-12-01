@@ -1,0 +1,12 @@
+{
+  "name": "aoc-2025",
+  "version": "1.0.0",
+  "description": "Advent of Code 2025 Solutions",
+  "main": "index.js",
+  "scripts": {
+    "day": "bun run ./run-day.js"
+  },
+  "keywords": ["advent-of-code", "aoc", "2025"],
+  "author": "",
+  "license": "ISC"
+}
