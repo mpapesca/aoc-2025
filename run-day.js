@@ -14,7 +14,8 @@ if (isNaN(dayNumber) || dayNumber < 1 || dayNumber > 12) {
   process.exit(1);
 }
 
-const dayPath = `./days/day${dayNumber}/solution.js`;
+const dayPadded = dayNumber.toString().padStart(2, "0");
+const dayPath = `./days/day${dayPadded}/solution.js`;
 
 try {
   await import(dayPath);

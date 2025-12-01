@@ -23,10 +23,10 @@ npm run day -- 1
 
 ```
 days/
-├── day1/
+├── day01/
 │   ├── solution.js    # Solution code
 │   └── prompt.md      # Problem description
-├── day2/
+├── day02/
 │   ├── solution.js
 │   └── prompt.md
 ...
