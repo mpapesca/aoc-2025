@@ -7,7 +7,7 @@ My solutions for [Advent of Code 2025](https://adventofcode.com/2025).
 | Day | Status |
 |:---:|:------:|
 | [01](./day01/) | ⭐ ⭐ |
-| [02](./day02/) | ⬜ ⬜ |
+| [02](./day02/) | ⭐ ⭐ |
 | [03](./day03/) | ⬜ ⬜ |
 | [04](./day04/) | ⬜ ⬜ |
 | [05](./day05/) | ⬜ ⬜ |
@@ -19,7 +19,7 @@ My solutions for [Advent of Code 2025](https://adventofcode.com/2025).
 | [11](./day11/) | ⬜ ⬜ |
 | [12](./day12/) | ⬜ ⬜ |
 
-**Total Stars: 2/24** ⭐
+**Total Stars: 4/24** ⭐
 
 ---
 
